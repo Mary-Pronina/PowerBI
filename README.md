@@ -7,9 +7,9 @@ You can find my previous Excel dashboard here:  [Dashboard in Excel](https://git
 into which movies, genres, and actors were the most successful in terms of box office revenue and ROI. Through this analysis, PowerBI demonstrated itself as the superior tool, 
 offering more advanced features and better data visualization capabilities.
 
-You can find my work in PowerBI here: [Dashboard in PowerBI]().
+You can find my work in PowerBI here:
 
-![Movies Data Dashboard Power BI xlsx](https://github.com/user-attachments/assets/bc5bbf22-2e38-4438-b906-481467aca855)
+![Movies Data Dashboard Power BI xlsx](https://github.com/user-attachments/assets/d3c9e577-a492-4f3e-a29c-e4b237daedcd)
 
 Specifically, PowerBI excels in:
 

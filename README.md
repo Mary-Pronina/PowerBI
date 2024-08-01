@@ -3,7 +3,7 @@
 ## PowerBI
 Previously, I created a dashboard in Excel to analyze movie data. I decided to recreate this dashboard in PowerBI to compare the two tools and evaluate their functionalities.
 
-You can find my previous Excel dashboard here:  [Dashboard in Excel](). The main objective of the dashboard is to analyze movie data and gain insights 
+You can find my previous Excel dashboard here:  [Dashboard in Excel](https://github.com/Mary-Pronina/Movies-Data.git). The main objective of the dashboard is to analyze movie data and gain insights 
 into which movies, genres, and actors were the most successful in terms of box office revenue and ROI. Through this analysis, PowerBI demonstrated itself as the superior tool, 
 offering more advanced features and better data visualization capabilities.
 

@@ -9,7 +9,7 @@ offering more advanced features and better data visualization capabilities.
 
 You can find my work in PowerBI here:
 
-![Movies Data Dashboard Power BI xlsx](https://github.com/user-attachments/assets/d3c9e577-a492-4f3e-a29c-e4b237daedcd)
+![Movies Data Dashboard Power BI](https://github.com/user-attachments/assets/cd85523a-6960-4da8-ab26-540fe0df9769)
 
 Specifically, PowerBI excels in:
 

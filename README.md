@@ -9,6 +9,8 @@ offering more advanced features and better data visualization capabilities.
 
 You can find my work in PowerBI here: [Dashboard in PowerBI]().
 
+![Movies Data Dashboard Power BI xlsx](https://github.com/user-attachments/assets/bc5bbf22-2e38-4438-b906-481467aca855)
+
 Specifically, PowerBI excels in:
 
  - Interactive Visualizations: PowerBI allows for more dynamic and interactive data visualizations, making it easier to explore and present insights.

@@ -22,3 +22,5 @@ Specifically, PowerBI excels in:
  - Data Connectivity: It offers robust connectivity to various data sources, simplifying the process of updating and integrating new data.
  - Customization: PowerBI provides extensive customization options for creating tailored reports and dashboards.
  - User Interface: The intuitive user interface in PowerBI makes it easier to create complex dashboards without extensive training.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge&logoWidth=20)](https://ca.linkedin.com/in/maria-pronina-42082b241)
